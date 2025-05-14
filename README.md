@@ -1,11 +1,11 @@
 # Grok 官网入口：一分钟教会你国内如何访问Grok3！
 
-> **更新时间：2025/05/14**          
+> **更新时间：2025/05/15**          
 
 **全面体验 [Grok 中文版](https://chat.lanjing.pro/)，无需翻墙，支持 Grok 3 和多功能应用！**   
-本项目旨在为用户提供一站式的 **[Grok 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://chat.xsimple.top/)** 、**[Grok 镜像网站](https://chat.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Grok，无论是个人使用还是专业需求。
+本项目旨在为用户提供一站式的 **[Grok 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://xsimplechat.com/)** 、**[Grok 镜像网站](https://chat.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Grok，无论是个人使用还是专业需求。
 
-**Grok 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**   
+**Grok 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
 **Grok 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
@@ -39,7 +39,7 @@
 
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
-| **一下 AI**         | [https://chat.yixiaai.com](https://chat.xsimple.top) | Grok 3，ChatGPT，Claude3.7，DeepSeek  | 有 | 微信扫码使用 | 高     | 中文支持、支持 Grok 3 和MJ绘图 |
+| **一下 AI**         | [https://chat.yixiaai.com](https://xsimplechat.com) | Grok 3，ChatGPT，Claude3.7，DeepSeek  | 有 | 微信扫码使用 | 高     | 中文支持、支持 Grok 3 和MJ绘图 |
 | **蓝鲸 AI**         | [https://chat.lanjing.pro/](https://chat.lanjing.pro/) | Grok 3，ChatGPT，Claude3.7，DeepSeek  | 有 | 国内邮箱注册 | 高     | 支持最新的 GPT-o1、o3，实时语音对话，视频对话|
 
 ---
