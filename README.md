@@ -1,6 +1,6 @@
 # Grok 官网入口：一分钟教会你国内如何访问Grok3！
 
-> **更新时间：2025/05/18**             
+> **更新时间：2025/05/19**             
 
 **全面体验 [Grok 中文版](https://chat.lanjing.pro/)，无需翻墙，支持 Grok 3 和多功能应用！**   
 本项目旨在为用户提供一站式的 **[Grok 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://xsimplechat.com/)** 、**[Grok 镜像网站](https://chat.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Grok，无论是个人使用还是专业需求。
